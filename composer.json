@@ -1,0 +1,9 @@
+{
+    "name": "asus/quete_simple_mvc-quete1",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
